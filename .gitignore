@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 apikey.txt
+.idea/sonarlint
